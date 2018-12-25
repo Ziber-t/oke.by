@@ -1,0 +1,1 @@
+<?php header( 'Location: http://oke.su/start/', true, 301 );
